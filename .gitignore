@@ -1,1 +1,3 @@
 .idea
+clickhouse-cdk/node_modules
+clickhouse-cdk/cdk.out
